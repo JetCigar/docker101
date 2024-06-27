@@ -1,0 +1,3 @@
+-docker cli
+  -docker ps
+  
